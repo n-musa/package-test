@@ -22,3 +22,4 @@ jobs:
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.READ_PACKAGE}}
+          READ_TOKEN: ${{secrets.READ_TOKEN}}
