@@ -1,0 +1,23 @@
+{
+  "name": "package-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://npm.pkg.github.com/@N-Musa"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N-Musa/package-test.git"
+  },
+  "keywords": [],
+  "author": "N-Musa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N-Musa/package-test/issues"
+  },
+  "homepage": "https://github.com/N-Musa/package-test#readme"
+}
