@@ -1,19 +1,18 @@
 {
   "name": "@n-musa/package-test",
-  "version": "5.1.0",
+  "version": "5.2.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@N-Musa"
+    "registry": "https://npm.pkg.github.com/@n-musa"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "N-Musa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/N-Musa/package-test/issues"
+    "url": "https://github.com/n-musa/package-test/issues"
   },
-  "homepage": "https://github.com/N-Musa/package-test#readme"
+  "homepage": "https://github.com/n-musa/package-test#readme"
 }
