@@ -1,10 +1,10 @@
 {
   "name": "@n-musa/package-test",
-  "version": "5.2.0",
+  "version": "5.3.0",
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@n-musa"
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
