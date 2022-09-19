@@ -19,7 +19,8 @@ jobs:
           registry-url: https://npm.pkg.github.com/
         env:
           NODE_AUTH_TOKEN: ${{ secrets.READ_TOKEN }}
-      - run: npm install
-      - run: npm publish
+      - run: |
+          npm install
+          npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.READ_PACKAGE}}
